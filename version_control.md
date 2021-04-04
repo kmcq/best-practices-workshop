@@ -105,9 +105,10 @@ Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
 ❯ git merge add-version-control-guide
-Merge made by the 'recursive' strategy.
- version_control.md | 108 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
- 1 file changed, 108 insertions(+)
+Updating cf15767..4eaacc1
+Fast-forward
+ version_control.md | 114 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 114 insertions(+)
  create mode 100644 version_control.md
 ```
 
