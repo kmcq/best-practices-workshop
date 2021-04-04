@@ -82,8 +82,8 @@ When **working by myself**, I use branches to experiment on a new way of doing t
 ❯ git switch -c add-version-control-guide
 ❯ git add .
 ❯ git commit -m "Add guide to version control"
-[add-version-control-guide 2dc0fbe] Add notes about branch flow
- 1 file changed, 103 insertions(+)
+[add-version-control-guide edf3ae8] Add guide to version control
+ 1 file changed, 114 insertions(+)
  create mode 100644 version_control.md
 ```
 
