@@ -18,6 +18,7 @@ Git has three main states a change can be in: uncommitted, staged, and committed
     - To see recent commits, use `git log`. On GitHub, you can see a file's commits in its History page and click on a commit to see what changes it made.
 
 ![git-staging-area](https://git-scm.com/images/about/index1@2x.png)
+
 _[image from git-scm.org](https://git-scm.com/about/staging-area)_
 
 At any point you can see the state of everything with `git status`.
