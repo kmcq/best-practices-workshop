@@ -95,7 +95,7 @@ This can be true for any type of value you're assigning to a variable, not just 
 
 One time when you may want to do this is if you're dealing with multiple very large datasets. If the program is using too much memory, only keeping one dataset attached to a variable at a time may help.
 
-### 3. Compartimentalize tasks
+### 3. Compartmentalize tasks
 
 A script is a series of instructions to achieve a goal. Remembering this while writing can help make it easier to expand on a particular section.
 
