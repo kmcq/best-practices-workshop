@@ -8,3 +8,4 @@ Computers are amazingly complex and the way we write programs for them can often
 - [Version control](/version_control.md)
 - [Writing maintainable code](/writing_code.md)
 - [Questions about using GitHub](/using_github.md)
+- [Script and project organizationo](/script_and_project_organization.md)
