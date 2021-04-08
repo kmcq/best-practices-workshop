@@ -1,6 +1,6 @@
 ## Questions about using GitHub
 
-### Is GitHub would work for managing writing papers with collaborators? We currently use the "save 10000 versions with different endings" method which seems bad.
+### Is GitHub good for managing writing papers with collaborators? We currently use the "save 10000 versions with different endings" method which seems bad.
 
 This depends on the type of document and your collaborators' familiarity with GitHub. My team does technical writing together and we collaborate using [GitHub Pull Requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). However, git and GitHub are not very good at dealing with complex document types like Word documents or PDFs. In addition, anyone you collaborate with would need to be proficient in using GitHub. For collaborating on code, using GitHub is stellar.
 

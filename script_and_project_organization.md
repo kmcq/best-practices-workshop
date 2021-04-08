@@ -12,7 +12,7 @@ My guidance on what is expected in the headers of the scripts might not apply be
 - A brief description of the data, aka the inputs to the script
 - A brief description of the analysis, aka the outputs of the script
 
-These are the standard things that code documentation usually covers.
+These are the standard things that code documentation usually covers and they give a good overview of what is happening in the script. For something that is just for yourself, I think this matters less, but it's still nice to have a small description if the script is complex enough.
 
 > What are your thoughts on outlining/creating a table of contents in scripts?
 

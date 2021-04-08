@@ -152,4 +152,4 @@ output_table(
 
 ### 4. Only leave in code that is being used
 
-Unused variables or tasks that calculate something that is not used can be confusing when returning to a program. It's find to keep a separate document with notes about things that you tried and didn't end up using, but keeping the code clean of unused items will help you and your collaborators understand what is important and what is not.
+Unused variables or tasks that calculate something that is not used can be confusing when returning to a program. It's fine to keep a separate document with notes about things that you tried and didn't end up using, but keeping the code clean of unused items will help you and your collaborators understand what is important and what is not.
